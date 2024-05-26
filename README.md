@@ -7,4 +7,4 @@ This project is a simple React Native application created for the DCIT202 Mobile
 11227253
 
 ## Screenshot
-![Screenshot of the application](screenshot.png)
+![Screenshot of the application](Screenshot.jpeg)
